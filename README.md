@@ -1,5 +1,8 @@
 # GLClogo
 GLCロゴ
 
+## 作業履歴
+- ver 1.1 2016/06/18 更新 形状微修正
+- ver 1.0 2016/06/01 更新
 
-![GLCロゴ](https://github.com/glcconcierge/GLClogo/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202016-06-02%2018.30.43.png?raw=true)
+![GLCロゴ](https://github.com/glcconcierge/GLClogo/blob/master/screenshot_2016-06-19.png?raw=true)
